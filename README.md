@@ -1,6 +1,3 @@
-# FlaskApi
-Api using flask framework.
-
 Steps to follow:
 1. mkdir myproject
 2. cd myproject
